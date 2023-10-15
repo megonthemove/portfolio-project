@@ -34,6 +34,7 @@ p {
 a {
     text-decoration: none;
     color: #272142;
+    transition: all 100ms ease-in-out;
 }
 
 a:hover {
@@ -114,6 +115,30 @@ img {
 
 .project-description {
  padding: 80px 60px;
+}
+
+.logo {
+  max-height: 150px;
+}
+
+nav {
+    padding: 0;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    list-style: none;
+    line-height: 130px;
+    margin-left: 10px;
+}
+
+nav li.active a {
+    color: var(--branding-color);
 }
 
 
