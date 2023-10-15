@@ -31,6 +31,16 @@ p {
     line-height: 30px;
 }
 
+a {
+    text-decoration: none;
+    color: #272142;
+}
+
+a:hover {
+    cursor: pointer;
+    color: var(--branding-color);
+}
+
 .hero {
     background: var(--secondary-color);
     text-align: center;
