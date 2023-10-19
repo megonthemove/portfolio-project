@@ -17,12 +17,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: 96px;
+    font-size: 68px;
     line-height: 1.5;
 }
 
 h2 {
     font-size: 55px;
+}
+
+h3 {
+    font-size: 28px;
 }
 
 h4 {
@@ -48,7 +52,7 @@ a:hover {
 
 .hero {
     background: var(--secondary-color);
-    padding: 150px 20px;
+    padding: 120px 20px;
 }
 
 .hero p {
@@ -90,7 +94,7 @@ a:hover {
 }
 
 .content p {
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .content {
