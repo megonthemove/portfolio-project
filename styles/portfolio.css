@@ -49,7 +49,7 @@ a:hover {
 .hero {
     background: var(--secondary-color);
     text-align: center;
-    padding: 110px 20px;
+    padding: 80px 20px;
 }
 
 .hero p {
@@ -67,7 +67,7 @@ a:hover {
 }
 
 .content-container {
-    padding: 110px 20px;
+    padding: 80px 20px;
 }
 
 .content h1 {
@@ -100,7 +100,7 @@ a:hover {
     border-radius: 4px;
     font-size: 18px;
     line-height: 27px;
-    padding: 15px 30px;
+    padding: 10px 25px;
 }
 
 .btn-branding-outline {
